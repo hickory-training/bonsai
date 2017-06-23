@@ -23,7 +23,7 @@ You'll also need to run a couple of command-line Node.js-based tools that are in
 To setup these and other dependencies, run these commands:
 
 ```
-gem install zendesk_apps_tools
+gem install zendesk_apps_tools -v 2.0.2
 npm install --global webpack foreman karma-cli
 ```
 
