@@ -5,7 +5,7 @@
     "email": "support@hickorytraining.com",
     "url": "https://www.hickorytraining.com"
   },
-  "private": "false",
+  "private": false,
   "defaultLocale": "en",
   "location": {
     "support": {
