@@ -1,9 +1,7 @@
-*Use of this software is subject to important terms and conditions as set forth in the License file*
-
-# App Scaffold
+# Hickory - Bonsai
 
 ## Description
-This repo contains a scaffold to help developers build [apps for Zendesk products](https://developer.zendesk.com/apps/docs/apps-v2/getting_started).
+This repo contains Hickory's Zendesk market place app.
 
 ## Getting Started
 
@@ -13,7 +11,7 @@ This repo contains a scaffold to help developers build [apps for Zendesk product
 
 ### Setup
 1. Clone or fork this repo
-2. Change (`cd`) into the `app_scaffold` directory
+2. Change (`cd`) into the `bonsai` directory
 3. Run `npm install`
 
 To run your app locally in Zendesk, you need the [Zendesk Apps Tools (ZAT)](https://github.com/zendesk/zendesk_apps_tools).

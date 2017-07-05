@@ -5,13 +5,13 @@
     "email": "support@hickorytraining.com",
     "url": "https://www.hickorytraining.com"
   },
+  "private": false,
   "defaultLocale": "en",
-  "private": true,
   "location": {
     "support": {
       "nav_bar": "assets/nav_bar.html"
     }
   },
-  "version": "0.1.0",
+  "version": "1.0.0",
   "frameworkVersion": "2.0"
 }
