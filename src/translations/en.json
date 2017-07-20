@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "Hickory - Bonsai",
-    "short_description": "Use Hickory's personalized mirco-learning to train your customer service teams within Zendesk.",
+    "short_description": "Hickory's personalized mirco-learning for customer service teams within Zendesk.",
     "long_description": "Hickory is an algorithmic training platform designed for customer service teams - it allows you to send lessons, automated reviews and personalized scenario trainings to your customer service team. Getting started is simple. Click install and your agents can start training. Easily send updates, new lessons and our algorithmic learning approach will ensure they never forget the key topics. Better Training = Better First Touch Resolution. Hickory integrates closely with Zendesk to make sure customer service teams can develop a best-in-class training programs that move key metrics. If you want to send out updates, make sure that your team is up-to-date and consistent on the latest trainings, or want to track how your training program is affecting your end metrics, then take a look at Hickory. We’ve build a complete solution to train your CS team, with build in lessons, automated reviews, and scenario trainings to make sure that your team know the right information and how to apply it.",
     "installation_instructions": "Click Install and Hickory will appear in your user's side panel as a new app, when they have new lessons or reviews to take they can with one click enter their Hickory environment. We require that you create a company account with Hickory before adding users to your account. For additional help contact us at support@hickorytraining.com or through our in-app chat."
   }
